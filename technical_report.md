@@ -31,5 +31,7 @@ There were 214 rows of data collected between 14 NBA players to start with.  I n
 
 
 ## "I am not a Role Model" - Charles Barkley
+The easiest way to compare was simply by using graphs and plotting from Age to some of the other features.  Option 2 was to run regression modeling and use PCA to combine the features and try to keep from overfitting.
 
-## "
+## Evaluation
+Linear Regression appeared to have the best score and the predictions were not far off
